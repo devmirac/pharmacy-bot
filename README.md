@@ -17,7 +17,7 @@ An open-source Telegram bot that provides information about the nearest on-duty 
 - Calculates distances to determine the nearest pharmacies and returns relevant information to the user
 
 ## Try now
-You can test the bot in action at [t.me/NobetciEczaneAra_bot](https://t.me/NobetciEczaneAra_bot)
+You can test the bot in action at [bot](https://t.me/)
   
 ## Variables
 
